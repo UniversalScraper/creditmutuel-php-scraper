@@ -1,9 +1,0 @@
-language: php
-
-sudo: false
-
-php:
-  - 7.2
-  - 7.3
-
-script: make test

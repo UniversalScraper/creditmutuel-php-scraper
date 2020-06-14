@@ -15,7 +15,7 @@
     "source": "https://github.com/scraperize/creditmutuel-scraper"
   },
   "require": {
-    "php": "^7.2",
+    "php": "^7.1",
     "guzzlehttp/guzzle": "^6.5",
     "scraperize/universalscraper": "^1.0"
   },
