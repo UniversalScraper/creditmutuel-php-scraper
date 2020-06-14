@@ -1,0 +1,25 @@
+{
+  "name": "scraperize/creditmutuel-scraper",
+  "description": "Credit Mutuel Scraper",
+  "license": "GPL-3.0-only",
+  "homepage": "https://github.com/scraperize/creditmutuel-scraper",
+  "authors": [
+    {
+      "name": "Jonathan SAHM",
+      "homepage": "https://github.com/johnstyle"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/scraperize/creditmutuel-scraper/issues",
+    "wiki": "https://github.com/scraperize/creditmutuel-scraper/wiki",
+    "source": "https://github.com/scraperize/creditmutuel-scraper"
+  },
+  "require": {
+    "php": "^7.2",
+    "guzzlehttp/guzzle": "^6.5",
+    "scraperize/universalscraper": "^1.0"
+  },
+  "autoload": {
+    "psr-4": { "Scraperize\\CreditMutuelScraper\\": "src/" }
+  }
+}
