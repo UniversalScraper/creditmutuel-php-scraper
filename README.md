@@ -1,10 +1,13 @@
 # Crédit Mutuel Scraper
 
-[![Latest Stable Version](https://poser.pugx.org/scraperize/creditmutuel-scraper/v/stable)](https://packagist.org/packages/scraperize/creditmutuel-scraper)
-[![Total Downloads](https://poser.pugx.org/scraperize/creditmutuel-scraper/downloads)](https://packagist.org/packages/scraperize/creditmutuel-scraper)
+[![Latest Stable Version](https://poser.pugx.org/scraperize/creditmutuel-scraper/v)](//packagist.org/packages/scraperize/creditmutuel-scraper)
+[![Total Downloads](https://poser.pugx.org/scraperize/creditmutuel-scraper/downloads)](//packagist.org/packages/scraperize/creditmutuel-scraper)
+[![Latest Unstable Version](https://poser.pugx.org/scraperize/creditmutuel-scraper/v/unstable)](//packagist.org/packages/scraperize/creditmutuel-scraper)
+[![License](https://poser.pugx.org/scraperize/creditmutuel-scraper/license)](//packagist.org/packages/scraperize/creditmutuel-scraper)
+
 [![Build Status](https://travis-ci.org/scraperize/creditmutuel-scraper.png?branch=master)](https://travis-ci.org/scraperize/creditmutuel-scraper)
-[![Dependency Status](https://www.versioneye.com/user/projects/58621fd94296de004b499bec/badge.svg?style=flat)](https://www.versioneye.com/user/projects/58621fd94296de004b499bec)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/e8ea2a10-d876-454e-a3ae-0e6af2f2926d/mini.png)](https://insight.sensiolabs.com/projects/e8ea2a10-d876-454e-a3ae-0e6af2f2926d)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/ac6ef016-d3a3-41f5-af31-9834e2f8e806/mini.png)](https://insight.sensiolabs.com/projects/ac6ef016-d3a3-41f5-af31-9834e2f8e806)
+[![Known Vulnerabilities](https://snyk.io/test/github/scraperize/creditmutuel-scraper/badge.svg?targetFile=composer.lock)](https://snyk.io/test/github/scraperize/creditmutuel-scraper?targetFile=composer.lock)
 
 ## Installation
 
